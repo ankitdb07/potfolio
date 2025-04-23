@@ -1,2 +1,2 @@
 PORTFLIO_WEBSITE
-ankithsportfolio.netlify.app
+https://ankithsportfolio.netlify.app/
